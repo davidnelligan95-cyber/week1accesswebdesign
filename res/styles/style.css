@@ -1,15 +1,24 @@
 *
 {
         font-family: Verdana, Geneva, Tahoma, Sans-serif;
-        color: red
+        color: blue;
+        font-weight: 600;
 }
 body
 {
-        background-color: blue;
+        background-color: black;
+}
+h1
+{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: large;
+        
 }
 th, td
 {
+    font: sans-serif;
     text-align: center;
     background-color: white;
     color: black;
 }
+
