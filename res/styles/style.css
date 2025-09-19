@@ -10,9 +10,42 @@ body
 }
 h1
 {
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-family: sans-serif;
+        font-size: xx-large;
+        font-style: italic;
+        text-decoration: wavy underline;
+        text-transform: uppercase;
+        font-weight: 900;
+        text-align: center;
+        color: white;
+        background-color: black;
+}
+h2
+{
+        font-family: sans-serif;
+        font-size: x-large;
+        text-align: center;
+        letter-spacing: 2px;
+        text-transform: capitalize;
+        color: white;
+        background-color: black;
+}
+h3
+{
+        font-family: sans-serif;
         font-size: large;
-        
+        text-align: center;
+        color: white;
+        background-color: black;
+}
+h4
+{
+        font-family: sans-serif;
+        word-spacing: 0.10em;
+        font-size: medium;
+        text-align: center;
+        color: white;
+        background-color: black;
 }
 th, td
 {
