@@ -1,4 +1,15 @@
 *
 {
-        font-family; verdana
+        font-family: Verdana, Geneva, Tahoma, Sans-serif;
+        color: red
+}
+body
+{
+        background-color: blue;
+}
+th, td
+{
+    text-align: center;
+    background-color: white;
+    color: black;
 }
