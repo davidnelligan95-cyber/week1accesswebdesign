@@ -1,64 +1,42 @@
+.header-center {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
 *
 {
         font-family: Verdana, Geneva, Tahoma, Sans-serif;
-        color: blue;
+        color: rgb(255, 0, 0);
         font-weight: 600;
 }
 body
 {
-        background-color: black;
+        background-image: url(../img/styles/dj-night-club-spotlight-ai-generated_990017-1977.jpg);
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
 }
 h1
 {
         font-family: sans-serif;
-        font-size: xx-large;
+        font-size: size xx-large;
         font-style: italic;
         text-decoration: wavy underline;
         text-transform: uppercase;
         font-weight: 900;
         text-align: center;
-        color: white;
-        background-color: black;
+        color: rgb(236, 11, 11);
+  
 }
-h2
-{
-        font-family: sans-serif;
-        font-size: x-large;
-        text-align: center;
-        letter-spacing: 2px;
-        text-transform: capitalize;
-        color: white;
-        background-color: black;
-}
-h3
-{
-        font-family: sans-serif;
-        font-size: large;
-        text-align: center;
-        color: white;
-        background-color: black;
-}
-h4
-{
-        font-family: sans-serif;
-        word-spacing: 0.10em;
-        font-size: medium;
-        text-align: center;
-        color: white;
-        background-color: black;
-        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-        font-size: large;
-        
-}
+h
 th, td
 {
     font: sans-serif;
     text-align: center;
     background-color: white;
-    color: black;
+    
 }
 
-.topnav {
-  overflow: hidden;
-  background-color: #000000;
-}
