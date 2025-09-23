@@ -19,6 +19,14 @@ body
         background-position: center;
         background-attachment: fixed;
 }
+.wrapper-about
+{
+       
+        margin: 0 auto;
+        width: auto;
+        padding: 20px;
+        border-radius: 10px;
+}
 h1
 {
         font-family: sans-serif;
@@ -31,7 +39,7 @@ h1
         color: rgb(236, 11, 11);
   
 }
-h
+
 th, td
 {
     font: sans-serif;
